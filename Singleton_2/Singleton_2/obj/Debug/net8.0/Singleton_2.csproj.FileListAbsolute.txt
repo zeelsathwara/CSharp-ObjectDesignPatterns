@@ -1,0 +1,14 @@
+C:\Users\zeels\source\repos\Presentation\Singleton_2\Singleton_2\bin\Debug\net8.0\Singleton_2.exe
+C:\Users\zeels\source\repos\Presentation\Singleton_2\Singleton_2\bin\Debug\net8.0\Singleton_2.deps.json
+C:\Users\zeels\source\repos\Presentation\Singleton_2\Singleton_2\bin\Debug\net8.0\Singleton_2.runtimeconfig.json
+C:\Users\zeels\source\repos\Presentation\Singleton_2\Singleton_2\bin\Debug\net8.0\Singleton_2.dll
+C:\Users\zeels\source\repos\Presentation\Singleton_2\Singleton_2\bin\Debug\net8.0\Singleton_2.pdb
+C:\Users\zeels\source\repos\Presentation\Singleton_2\Singleton_2\obj\Debug\net8.0\Singleton_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeels\source\repos\Presentation\Singleton_2\Singleton_2\obj\Debug\net8.0\Singleton_2.AssemblyInfoInputs.cache
+C:\Users\zeels\source\repos\Presentation\Singleton_2\Singleton_2\obj\Debug\net8.0\Singleton_2.AssemblyInfo.cs
+C:\Users\zeels\source\repos\Presentation\Singleton_2\Singleton_2\obj\Debug\net8.0\Singleton_2.csproj.CoreCompileInputs.cache
+C:\Users\zeels\source\repos\Presentation\Singleton_2\Singleton_2\obj\Debug\net8.0\Singleton_2.dll
+C:\Users\zeels\source\repos\Presentation\Singleton_2\Singleton_2\obj\Debug\net8.0\refint\Singleton_2.dll
+C:\Users\zeels\source\repos\Presentation\Singleton_2\Singleton_2\obj\Debug\net8.0\Singleton_2.pdb
+C:\Users\zeels\source\repos\Presentation\Singleton_2\Singleton_2\obj\Debug\net8.0\Singleton_2.genruntimeconfig.cache
+C:\Users\zeels\source\repos\Presentation\Singleton_2\Singleton_2\obj\Debug\net8.0\ref\Singleton_2.dll
